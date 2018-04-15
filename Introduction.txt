@@ -4,3 +4,4 @@ This could be an advantage be it could also be a major disadvantage.
 For some reason I find it much more difficult to work on the desktop than on the online version.
 Now they say that you can use a branche to work parallel to the master branch.
 It looks like a did a succesful merge.
+However, working with github might be overkill. But you never known. You might have to exlore this.
