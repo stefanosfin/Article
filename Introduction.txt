@@ -5,3 +5,7 @@ For some reason I find it much more difficult to work on the desktop than on the
 Now they say that you can use a branche to work parallel to the master branch.
 It looks like a did a succesful merge.
 However, working with github might be overkill. But you never known. You might have to exlore this.
+
+I have to make the following observation. It looks that you cannot edit your text unless you are on the web edition of GitHub. It could be different if you had a payed version. However so far it really looks nice to see all the previous iterations and exactly were you did change something.
+
+To look at your thought process it might be desirable to put them in the comments.
